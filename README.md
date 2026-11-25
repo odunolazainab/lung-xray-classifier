@@ -7,7 +7,7 @@ Author: Muhammed-Raji Zainab Odunola
 
 > ⚠️ This is a student learning project. It is **not** a medical diagnosis tool.
 
-![App screenshot](app_screenshot.png.png)
+![App screenshot](app_demo.png)
 
 ## Dataset
 - **Lung X-Ray Image Dataset** from Mendeley Data: https://data.mendeley.com/datasets/p5rm59k7ph/1
